@@ -1,0 +1,21 @@
+{
+    "english": {
+     "content": {
+        "FirstIntro": "<p class='intro'>HTML, CSS, JS, jQuery, PHP and MySQL. <br /> <span class='behind'>That is my stack.</span></p>",
+     
+        "Personalinfo": "I'm from Montevideo, Uruguay. And since 2016 I've been coding. I've been working in differents programming languages, first it was HTML and CSS. Then jQuery appears to make all that I was doing in something useful, the second great framework that appears it was Bootstrap (actually, this site is built in it). And finally, I meet PHP and MySQL when my moment to work on backend it comes.",
+        "RightNow": "Right now, I'm learning React and Laravel in order to get my stack up to today. I strongly believe that PHP is a very strong and revelant language (yes, it's not dying. And not, it won't die). But also I'm learning some of Node JS and MongoDB because I think that keep updated is the best thing to do.",
+        "Preferences": "Even if I enjoy creating and make MySQL tables works, and the logic behind the backend, I'm truly apassionate for the frontend. I see the software development as an art, and its more an art when it comes with the user interface design.",
+        "CloseSection": "With no more to say, down here you can see all the projects I'm working on. Some of them are in process, and some of them are totally done. Hope you like it!"
+        }
+    },
+    "spanish":{
+     "content": {
+        "FirstIntro": "<p class='intro'> HTML, CSS, JS, jQuery, PHP and MySQL. <br /> <span class='behind'>Ese es mi stack.</span></p>",
+        "Personalinfo": "<p class='PersonalInfo'>Soy de Montevideo, Uruguay. Desde 2016 estoy en el mundo de la programación. Trabajé con distintos lenguajes, primero empecé con HTML y CSS diseñando interfaces web simples, hasta que conocí a jQuery que me permitió agregarle una funcionalidad muchísimo más compleja a los sitios que iba realizando. El segundo gran framework fue Bootstrap (¡este sitio está construido él!) y finalmente terminé programando en PHP y utilizando MySQL para bases de datos, en ese momento fue que pasé del puro Front a trabajar también en el Back.</p>",
+        "RightNow": "En este momento estoy aprendiendo React y Laravel para actualizar mi stack a la tendencia actual. Creo con firmeza que PHP es un lenguaje muy fuerte y que Laravel y su sintaxis simple y elegante destruye un poco el mito de la inminente muerte de él. De todas formas hacia backend, también estoy aprendiendo NodeJS y MongoDB ya que considero que hay lograr aprender lo máximo posible en este mundo que es cambiante a velocidades imperceptibles.",
+        "Preferences": "Si bien disfruto de todo el trabajo que incluye la creación, el mantenimiento y el crecimiento de bases de datos y la lógica detrás del proceso de ellos con PHP (o backend en general) me considero genuinamente apasionado por el Frontend. Entiendo el desarrollo de software como un arte, y en ese sentido creo que el área de Frontend lo potencia muchísimo más.",
+        "CloseSection": "Sin mucho más que decir, acá abajo podés ver todos los proyectos en los que estoy trabajando. Algunos de ellos en proceso y otros finalizados. Espero que lo disfrutes!"
+        }
+    } 
+}

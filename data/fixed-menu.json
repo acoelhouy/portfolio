@@ -1,0 +1,35 @@
+{
+"english": [{
+            "NameMenu": "About Me",
+            "Link": "#AboutMe",
+            "Alt": "About Me!"
+            },
+            {
+            "NameMenu": "What I Do",
+            "Link": "#WhatIDo",
+            "Alt": "What I Do"
+            },
+            {
+            "NameMenu": "Technologies",
+            "Link": "#Technologies",
+            "Alt": "Technologies"
+            }
+            ],
+"spanish": [{
+            "NameMenu": "Acerca de mí",
+            "Link": "#AboutMe",
+            "Alt": "Acerca de mí!"
+
+            },
+            {
+                "NameMenu": "Lo que hago",
+                "Link": "#WhatIDo",
+                "Alt": "Lo que hago"
+            },
+            {
+                "NameMenu": "Tecnologías",
+                "Link": "#Technologies",
+                "Alt": "Tecnologías"
+            }
+            ]
+}

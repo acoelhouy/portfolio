@@ -1,0 +1,110 @@
+body {
+  background-color: #131313 !important;
+}
+
+.container-fluid {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.container-fluid #header {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background: #131313;
+  position: relative;
+}
+
+.container-fluid #header #change-language {
+  position: absolute;
+  top: 31px;
+  right: 20px;
+}
+
+.container-fluid #header #change-language a {
+  font-family: 'Sen', sans-serif;
+  font-size: 1.4rem;
+  color: #8c8c8c;
+  text-align: center;
+  margin-bottom: 0px !important;
+  font-size: 1rem;
+}
+
+.container-fluid #header #change-language a:hover {
+  color: #555;
+  text-decoration: none;
+}
+
+.container-fluid .cont-logo {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+#logo {
+  font-family: 'Sen', sans-serif;
+  font-size: 1.4rem;
+  color: #8c8c8c;
+  text-align: center;
+  margin-bottom: 0px !important;
+}
+
+#MainContent {
+  float: right;
+}
+
+#MainMenu {
+  width: 15%;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  list-style: none;
+}
+
+#MainMenu li {
+  text-align: center;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+
+#MainMenu li a {
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 500;
+  color: #8c8c8c;
+  text-transform: uppercase;
+}
+
+.intro {
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 500;
+  color: #8c8c8c;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 2rem;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-bottom: 0px;
+  line-height: 24px;
+}
+
+.intro span {
+  font-family: 'Sen';
+  letter-spacing: 9px;
+  line-height: 85px;
+}
+
+#Presentation {
+  font-size: 8rem;
+  line-height: 31px;
+  padding-top: 5%;
+}
+
+#Personalinfo {
+  background: #212529;
+  color: #969696;
+  padding: 5%;
+  margin-top: 4%;
+}
+/*# sourceMappingURL=style.css.map */
